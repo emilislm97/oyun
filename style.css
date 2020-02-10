@@ -1,0 +1,93 @@
+#container{
+    width: 400px;
+    margin: auto;
+    background-color: blue;
+    border-radius: 20px 0px 20px 0;
+}
+#container button{
+    background-color: turquoise;
+    color: blue;
+    font-weight: bold;
+    border-radius: 5px 0 5px 0;
+    border: none;
+}
+
+#b4{
+    width: 100px;
+    height: 40px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#p1{
+    display: inline-block;
+    width: 190px;
+    font-size: 25px;
+    margin-left:100px;
+    background-color: blue;
+    border: solid 3px;
+    color: #FFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 3px;
+}
+
+#b2{
+    width: 50px;
+    height: 30px;
+    margin: 10px 70px;
+}
+
+#b3{
+    width: 50px;
+    height: 30px;
+    margin: 0 70px 30px;
+}
+#span2{
+    display: inline-block;
+    
+    height: 20px;
+    font-size: 20px;
+    
+    background-color: blue;
+    border: solid 3px;
+    color: #FFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px;
+    width: 290px;
+    margin-left:5px;
+}
+#input1{
+    width: 100px;
+    height: 30px;
+    margin-left : 100px;
+}
+#b1{
+    width: 60px;
+    height: 30px;
+    margin: auto;
+    margin: 20px;
+}
+#span{
+    border: solid 3px;
+    text-align: center;
+    display: inline-block;
+    height: 15px;
+    font-size: 20px;
+    color: #FFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 290px;
+    margin-left:5px;
+}
+#span3{
+    font-size: 25px;
+    color: #FFF;
+    text-align: center;
+    display: inline-block;
+    margin-top:5px ;
+}
+.div2{
+    display: flex;
+    flex-wrap: wrap;
+}
